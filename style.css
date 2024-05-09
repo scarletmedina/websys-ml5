@@ -2,10 +2,9 @@
     font-family: Roboto;
     src: url(../fonts/roboto-regular.ttf);
 }
-
 body {
     background-color: rgb(254, 254, 254);
-    font-size: 30px;
+    font-size: 26px;
     font-family: roboto;
     color: rgb(0, 0, 0);
      
@@ -18,8 +17,10 @@ body {
 }
 
 table {
-    width: 90%;
+    width: 49%;
     border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 th {
